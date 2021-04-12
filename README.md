@@ -1,5 +1,5 @@
 # cimol-dating-app
-Dating app with php,css bootstrap
+Dating app with php, javascript, css bootstrap
 
 Thanks to github, stackoverflow :"
 
