@@ -1,9 +1,9 @@
 # cimol-dating-app
 Dating app with php
 
-Thanks to stackoverflow
+Thanks to stackoverflow :"
 
-Thanks to github
+Thanks to github :"
 
 Thanks to everyone who supported this project
 
